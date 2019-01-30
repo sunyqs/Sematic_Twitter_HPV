@@ -1,0 +1,772 @@
+Word,POS,Frequency
+HPV,HPV,4826
+cancer,cancer,3131
+cervical,cervical,2638
+vaccine,vaccine,1782
+pap,pap,1411
+good,good,974
+woman,woman,914
+Pap,pap,735
+girl,girl,695
+smear,smear,685
+hpv,HPV,684
+boy,boy,673
+Gardasil,Gardasil,643
+smear,smear,611
+Cancer,cancer,607
+love,love,555
+Cervical,cervical,508
+today,today,471
+support,support,466
+great,great,419
+year,year,378
+make,make,362
+vaccination,vaccination,299
+thing,thing,290
+day,day,285
+happy,happy,280
+health,health,279
+shot,shot,276
+awareness,awareness,266
+Smear,smear,262
+Vaccine,vaccine,262
+cervicalcancer,cervical_cancer,262
+jab,jab,261
+tweet,tweet,259
+test,test,256
+time,time,247
+man,man,243
+life,life,239
+papsmearino,pap_smear,239
+Great,great,234
+hope,hope,231
+news,news,224
+friend,friend,219
+free,free,214
+follow,follow,198
+sex,sex,185
+month,month,184
+guy,guy,182
+prevent,prevent,180
+win,win,179
+Health,health,178
+papsmear,pap_smear,177
+people,people,176
+screen,screen,172
+make,make,171
+mom,mom,171
+video,video,169
+doctor,doctor,169
+gardasil,Gardasil,167
+fight,fight,164
+show,show,162
+lady,lady,160
+LaylaHart,Layla_Hart,158
+smear,smear,157
+fun,fun,157
+recommend,recommend,156
+week,week,156
+thepapsmear,pap_smear,154
+join,join,153
+Boys,boy,152
+CDC,CDC,150
+check,check,146
+injection,injection,146
+wait,wait,145
+work,work,144
+Love,love,143
+give,give,142
+side,side,142
+vaccinate,vaccinate,142
+tomorrow,tomorrow,141
+PAP,pap,141
+young,young,138
+Perry,Perry,138
+find,find,135
+back,back,134
+pl,please,133
+infection,infection,132
+have,have,130
+amazing,amazing,130
+kid,kid,130
+CervicalCancer,cervical_cancer,129
+smear,smear,127
+prevention,prevention,123
+morning,morning,121
+HIV,HIV,121
+virus,virus,121
+campaign,campaign,120
+Awareness,awareness,120
+talk,talk,120
+give,give,120
+notice,notice,120
+risk,risk,119
+oral,oral,117
+shoot,shot,117
+common,common,117
+nice,nice,116
+story,story,116
+stage,stage,114
+STD,STD,114
+sexually,sexually,114
+watch,watch,114
+real,real,111
+wart,wart,110
+care,care,109
+Ladies,lady,108
+Bachmann,Bachmann,108
+dose,dose,107
+smear,smear,107
+chance,chance,106
+important,important,105
+Harry,Harry,102
+ur,your,102
+breast,breast,102
+effect,effect,100
+end,end,100
+Women,woman,100
+Merck,Merck,98
+world,world,97
+age,age,97
+lt,it,97
+Good,good,95
+daughter,daughter,95
+study,study,94
+share,share,94
+info,information,93
+Hope,hope,93
+glad,glad,92
+disease,disease,92
+arm,arm,92
+God,God,91
+awesome,awesome,90
+raise,raise,90
+night,night,90
+Month,month,89
+follow,follow,89
+offer,offer,88
+protect,protect,88
+Styles,Styles,87
+treatment,treatment,87
+save,save,86
+big,big,84
+human,human,84
+interesting,interesting,83
+birthday,birthday,82
+Day,day,82
+start,start,82
+rate,rate,80
+raise,raise,80
+school,school,80
+start,start,79
+article,article,78
+word,word,77
+genital,genital,77
+case,case,77
+annual,annual,77
+TRUE,TRUE,77
+Prevention,Prevention,76
+funny,funny,76
+cure,cure,76
+bad,bad,76
+country,country,75
+money,money,75
+papSmear1,pap_smear,74
+luck,luck,74
+Test,test,74
+Hpv,HPV,73
+fact,fact,73
+pretty,pretty,72
+call,call,72
+idea,idea,72
+safe,safe,72
+exam,exam,72
+ya,yes,70
+enjoy,enjoy,70
+forget,forget,70
+spread,spread,70
+research,research,70
+mammogram,mammogram,69
+develop,develop,69
+read,read,68
+forward,forward,68
+help,help,67
+post,post,67
+song,song,67
+smear,smear,67
+throat,throat,67
+std,STD,64
+lead,lead,63
+Michael,Michael,63
+finally,finally,62
+death,death,62
+YouTube,YouTube,61
+prevent,prevent,61
+save,save,61
+shot,shot,61
+active,active,61
+ready,ready,60
+lot,lot,60
+issue,issue,60
+follower,follower,59
+pussy,pussy,59
+CANCER,cancer,59
+child,child,59
+cover,cover,58
+yeah,yeah,58
+wait,wait,58
+miss,miss,57
+gon,go,57
+UK,UK,57
+result,result,57
+screening,screen,57
+January,January,56
+bitch,bitch,56
+beautiful,beautiful,56
+favorite,favorite,56
+think,think,55
+hope,hope,55
+parent,parent,55
+god,God,54
+reduce,reduce,54
+battle,battle,54
+learn,learn,54
+read,read,54
+vax,vax,54
+date,date,53
+point,point,53
+herpes,herpes,53
+survivor,survivor,53
+cool,cool,52
+baby,baby,52
+clear,clear,52
+vaccinate,vaccinate,52
+Free,free,52
+papsmear1,pap_smear,51
+CCPW,CCPW,51
+Study,study,51
+panel,panel,51
+affect,affect,51
+SMEAR,smear,50
+FDA,FDA,50
+fund,fund,50
+hurt,hurt,50
+effective,effective,50
+heart,heart,50
+Young,young,50
+yearly,year,50
+needle,needle,50
+youtube,YouTube,49
+home,home,49
+nurse,nurse,49
+vagina,vagina,49
+Douglas,Douglas,48
+lt,it,48
+job,job,48
+win,win,48
+testing,test,48
+Genital,genital,48
+have,have,47
+Vaccination,vaccination,47
+write,write,47
+commercial,commercial,47
+News,news,47
+Liam,Liam,47
+include,include,47
+Payne,Payne,47
+event,event,47
+tweet,tweet,47
+think,think,46
+Smears,smear,46
+partner,partner,46
+reason,reason,46
+family,family,46
+Herpes,herpes,46
+female,female,46
+auction,auction,46
+book,book,45
+game,game,45
+hear,hear,45
+protection,protection,45
+read,read,45
+Dr,doctor,45
+visit,visit,45
+lovely,love,45
+gift,gift,45
+im,I,45
+fb,Facebook,45
+eye,eye,44
+pay,pay,44
+hear,hear,44
+diagnose,diagnose,44
+discuss,discuss,44
+special,special,43
+cervix,cervix,43
+excited,excit,43
+NiallOfficial,Niall_Official,43
+Cervarix,cervarix,43
+ad,ad,42
+debate,debate,42
+anal,anal,42
+walk,walk,42
+Life,Life,42
+learn,learn,42
+PapSmear,pap_smear,42
+medical,medical,42
+cause,cause,41
+tell,tell,41
+hurt,hurt,41
+question,question,41
+app,app,41
+mother,mother,40
+tonight,tonight,40
+Today,today,40
+part,part,40
+National,national,40
+preventable,preventable,40
+interested,interest,40
+receive,receive,40
+sound,sound,39
+information,information,39
+class,class,39
+group,group,39
+regular,regular,39
+LOVE,love,39
+shit,shit,39
+proud,proud,39
+sister,sister,39
+Warts,warts,39
+cost,cost,39
+feel,feel,38
+Big,big,38
+drug,drug,38
+Castles,castle,38
+healthy,healthy,38
+Girls,girl,38
+final,final,38
+Crystal,crystal,38
+condom,condom,37
+FREE,free,37
+bring,bring,37
+Make,make,37
+Papsmear,pap_smear,37
+stop,stop,37
+high,high,37
+eat,eat,37
+appointment,appointment,36
+blood,blood,36
+program,program,36
+answer,answer,36
+Valentine,Valentine,36
+mandate,mandate,36
+teens,teens,36
+take,take,36
+son,son,36
+early,early,36
+love,love,36
+fine,fine,36
+increase,increase,36
+miss,miss,36
+feature,feature,36
+die,die,35
+report,report,35
+head,head,35
+papillomavirus,papillomavirus,35
+male,male,35
+flu,flu,35
+strain,strain,35
+trend,trend,35
+doc,doctor,35
+HPVvaccine,HPV_vaccine,35
+Oral,oral,34
+Week,week,34
+wife,wife,34
+play,play,34
+roll,roll,34
+show,show,34
+apparently,apparently,34
+remind,remind,34
+CERVICAL,cervical,34
+schedule,schedule,34
+aid,aid,34
+Christmas,Christmas,34
+birth,birth,33
+it,it,33
+stuff,stuff,33
+protect,protect,33
+place,place,33
+Men,man,32
+find,find,32
+clinic,clinic,32
+beat,beat,32
+person,person,32
+benefit,benefit,32
+palm,palm,32
+push,push,32
+treat,treat,32
+put,put,32
+catch,catch,32
+blog,blog,32
+WhitePages,White_Pages,32
+create,create,31
+food,food,31
+Human,human,31
+change,change,31
+yr,year,31
+gay,gay,31
+jag,jag,31
+YellowUmbOrg,YellowUmbOrg,31
+control,control,31
+Michele,Michele,31
+thepapsmear,pap_smear,31
+live,live,31
+Screening,screen,31
+celebrate,celebrate,31
+dr,doctor,31
+expert,expert,30
+weekend,weekend,30
+sound,sound,30
+Tweet,tweet,30
+LOVES,love,30
+Treatment,treatment,30
+approval,approval,30
+hiv,HIV,30
+cuz,cause,30
+agree,agree,30
+sign,sign,30
+detect,detect,30
+feel,feel,30
+listen,listen,30
+type,type,30
+pain,pain,30
+perfect,perfect,30
+im,I,30
+link,link,30
+mine,mine,29
+live,live,29
+million,million,29
+suggest,suggest,29
+dear,dear,29
+insurance,insurance,29
+site,site,29
+problem,problem,29
+Breast,breast,29
+drop,drop,29
+Trust,trust,29
+joke,joke,29
+grow,grow,29
+Girl,girl,29
+full,full,29
+teen,teens,29
+public,public,29
+Parenthood,Parenthood,29
+science,science,29
+exciting,excit,28
+get,get,28
+fall,fall,28
+carry,carry,28
+Watch,watch,28
+party,party,28
+team,team,28
+coverage,coverage,28
+way,way,28
+Predictor,predictor,28
+Time,time,28
+transmitted,transmit,28
+charity,charity,28
+Katie,Katie,28
+Friday,Friday,28
+picture,picture,28
+lower,lower,28
+AIDS,AIDS,28
+Planned,Planned,28
+red,red,27
+hour,hour,27
+patient,patient,27
+Texas,Texas,27
+totally,totally,27
+finish,finish,27
+positive,positive,27
+dumb,dumb,27
+abnormal,abnormal,27
+abt,about,27
+palette,palette,27
+cell,cell,27
+speak,speak,26
+deal,deal,26
+weird,weird,26
+hair,hair,26
+PSA,PSA,26
+male,male,26
+sore,sore,26
+lose,lose,26
+donate,donate,26
+yesterday,yesterday,26
+MT,MT,26
+Rwanda,Rwanda,26
+Throat,throat,26
+huge,huge,26
+decide,decide,26
+CervicalCancerPreventionWeek,cervical_cancer,26
+government,government,26
+Top,top,26
+GOP,GOP,26
+TWEET,tweet,26
+kill,kill,26
+routine,routine,25
+pill,pill,25
+Cervical,cervical,25
+guideline,guideline,25
+CBS,CBS,25
+Obamacare,Obamacare,25
+topic,topic,25
+comment,comment,25
+top,top,25
+shirt,shirt,25
+promote,promote,25
+twitter,Twitter,25
+experience,experience,25
+ENVY,ENVY,25
+movie,movie,25
+scare,scare,25
+awkward,awkward,25
+pray,pray,25
+reaction,reaction,25
+WIN,win,25
+Rick,Rick,25
+printer,printer,25
+laugh,laugh,25
+Foundation,foundation,25
+smear,smear,25
+Tablet,tablet,24
+dream,dream,24
+click,click,24
+MOUTHFUL,mouthful,24
+come,come,24
+pass,pass,24
+message,message,24
+Thing,thing,24
+whitepage,White_Pages,24
+race,race,24
+Nice,nice,24
+let,let,24
+break,break,24
+hoe,hoe,24
+yr,year,24
+sexual,sexual,24
+tv,TV,24
+yellowumbrellum,YellowUmbOrg,24
+Cancer,cancer,24
+symptom,symptom,24
+die,die,24
+Care,care,23
+stay,stay,23
+rise,rise,23
+paper,paper,23
+contract,contract,23
+encourage,encourage,23
+piece,piece,23
+strong,strong,23
+student,student,23
+number,number,23
+Dre,Dre,23
+crazy,crazy,23
+remember,remember,23
+Laptop,laptop,23
+Pretty,pretty,23
+company,company,23
+reminder,reminder,23
+early,early,23
+receive,receive,23
+2010,2010,23
+Walgreens,Walgreens,23
+diagnose,diagnose,23
+hot,hot,23
+detection,detection,23
+medicine,medicine,23
+India,India,22
+Couric,Couric,22
+deaf,deaf,22
+body,body,22
+bless,bless,22
+cute,cute,22
+face,face,22
+Story,story,22
+STI,STI,22
+local,local,22
+surprise,surprise,22
+Video,video,22
+yeah,yeah,22
+Michelle,Michelle,22
+retweet,retweet,22
+Effects,effect,22
+celebrity,celebrity,22
+lot,lot,22
+prayer,prayer,22
+urge,urge,22
+Smears,smear,22
+college,college,22
+screening,screen,22
+super,super,22
+surgery,surgery,22
+force,force,22
+ass,ass,22
+ACA,ACA,22
+fine,fine,22
+touch,touch,22
+advocate,advocate,22
+hell,hell,22
+kind,kind,22
+Teal,teaT,22
+June,June,21
+dont,do,21
+worldwide,worldwide,21
+didnt,do,21
+painful,painful,21
+Twitter,Twitter,21
+cheer,cheer,21
+long,long,21
+Medicine,medicine,21
+mention,mention,21
+ppl,people,21
+vaxfax,vaxfax,21
+fan,fan,21
+wear,wear,21
+Im,I,21
+chlamydium,chlamydium,21
+recommendation,recommendation,21
+gettin,get,21
+importance,importance,21
+transmit,transmit,21
+mouth,mouth,21
+minute,minute,21
+normal,normal,21
+DNA,DNA,21
+bout,about,21
+adult,adult,21
+Panel,panel,20
+Obama,Obama,20
+Jan,January,20
+educate,educate,20
+approve,approve,20
+yo,you,20
+guess,guess,20
+round,round,20
+half,half,20
+thought,thought,20
+remember,remember,20
+present,present,20
+plan,plan,20
+pass,pass,20
+plz,please,20
+Vaccines,vaccine,20
+wan,wan,20
+service,service,20
+Risk,risk,20
+low,low,20
+Papillomavirus,papillomavirus,20
+turn,turn,20
+know,know,20
+2012,2012,20
+leave,leave,20
+apt,apartment,20
+sense,sense,20
+small,small,20
+wonderful,wonderful,20
+perform,perform,20
+launch,launch,20
+survival,survival,20
+cervical cancer,cervical_cancer,2535
+pap smear,pap_smear,1335
+HPV vaccine,HPV_vaccine,1211
+Cervical Cancer,cervical_cancer,481
+Pap smear,pap_smear,329
+Pap Smear,pap_smear,248
+HPV Vaccine,HPV_vaccine,219
+HPV vaccination,HPV_vaccination,187
+vaccine boy,vaccine_boy,129
+cancer awareness,cancer_awareness,114
+HPV shot,HPV_shot,105
+cancer vaccine,cancer_vaccine,102
+cancer jab,cancer_vaccine,101
+Harry Styles,Harry_Styles,87
+awareness month,awareness_month,84
+side effect,side_effect,83
+save life,save_life,83
+good news,good_news,82
+hpv vaccine,HPV_vaccine,81
+Cancer Awareness,cancer_awareness,76
+Awareness Month,awareness_month,70
+Pap Smears,pap_smear,67
+HPV jab,HPV_shot,67
+raise awareness,raise_awareness,66
+PAP smear,pap_smear,66
+cancer prevention,cancer_prevention,62
+HPV shoot,HPV_shot,59
+sexually active,sexually_active,57
+cancer screen,cancer_screen,57
+genital wart,genital_wart,57
+YouTube video,YouTube_video,55
+throat cancer,throat_cancer,52
+Gardasil vaccine,Gardasil_vaccine,50
+Liam Payne,Liam_Payne,47
+PAP SMEAR,pap_smear,46
+HPV infection,HPV_infection,44
+Michael Douglas,Michael_Douglas,43
+happy birthday,happy_birthday,43
+Vaccine Boys,vaccine_boy,42
+raise money,raise_money,41
+HPV injection,HPV_shot,41
+oral sex,oral_sex,41
+HPV virus,human_papillomavirus,40
+hpv shot,HPV_shot,39
+cancer screening,cancer_screen,39
+Crystal Castles,Crystal_Castles,38
+woman health,woman_health,37
+oral cancer,oral_cancer,37
+hpv jab,HPV_shot,37
+good thing,good_thing,36
+gardasil shot,Gardasil_vaccine,36
+HPV Test,HPV_test,36
+Genital Warts,genital_wart,35
+HPV test,HPV_test,34
+human papillomavirus,human_papillomavirus,33
+breast cancer,breast_cancer,33
+Valentine Day,Valentine_Day,33
+young woman,young_woman,32
+CERVICAL CANCER,cervical_cancer,32
+youtube video,YouTube_video,31
+Cancer Prevention,cancer_prevention,31
+vaccinate boy,vaccine_boy,31
+HPV Vaccination,HPV_vaccination,31
+cancer survivor,cancer_survivor,30
+good luck,good_luck,30
+Pap test,pap_smear,30
+sexually transmitted,sexually_transmitted,29
+Planned Parenthood,PlannedParenthood,28
+Cervical cancer,cervical_cancer,28
+great news,great_news,28
+Michele Bachmann,Michele_Bachmann,26
+Pap Test,pap_smear,26
+vaccination boy,vaccine_boy,26
+Prevention Week,Prevention_Week,25
+good start,good_start,25
+develop country,develop_country,25
+raise fund,raise_fund,24
+birth control,birth_control,23
+young girl,young_girl,23
+good idea,good_idea,23
+vaccine girl,vaccine_girl,23
+Katie Couric,Katie_Couric,22
+reduce risk,reduce_risk,22
+Great news,great_news,22
+good morning,good_morning,22
+common STD,common_STD,22
+Awareness month,awareness_month,21
+cancer injection,cancer_injection,21
+health care,health_care,21
+transmitted infection,transmitted_infection,21
+HPV Vaccinations,HPV_vaccine,20
+cervical CANCER,cervical_cancer,20
+Dr Dre,Dr.Dre,20
+hpv injection,HPV_shot,20
